@@ -10,8 +10,7 @@ public class Test1 {
 		System.out.println("no i am not hungry");
 		// TODO Auto-generated method stub
 		
-		//System.out.println("no i am not hungry");
-		System.out.println("no i am not hungry");
+		
 
 	}
 
