@@ -11,6 +11,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("no i am not hungry");
+		System.out.println("no i am not hungry");
 
 	}
 
